@@ -2,7 +2,7 @@
 
 This is the implementation of [Joint Aspect Extraction and Sentiment Analysis with Directional Graph Convolutional Networks](https://www.aclweb.org/anthology/2020.coling-main.24/) at COLING 2020.
 
-You can e-mail Guimin Chen at `chenguimin@sribd.cn` or `cuhksz.nlp@gmail.com`, if you have any questions.
+You can e-mail Yuanhe Tian at `yhtian@uw.edu`, if you have any questions.
 
 ## Citation
 
@@ -53,7 +53,6 @@ Here are some important parameters:
 
 ## To-do List
 
-* Release the code to get the data.
 * Regular maintenance.
 
 You can leave comments in the `Issues` section, if you want us to implement any functions.
